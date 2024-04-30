@@ -20,7 +20,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Typescript | Tailwind CSS
 
 
-- 🖥 &nbsp; Illustrator| Photoshop | Canva
+- 🖥 &nbsp; Illustrator| Photoshop | Canva | Figma
 
 
 
