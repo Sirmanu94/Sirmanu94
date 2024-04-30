@@ -34,8 +34,6 @@
 
 <br/><br/>
 
-[![Emanuele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sirmanu94&show_icons=true)](https://github.com/shivam0110)
-
 <br/>
 
 <br/>
@@ -55,9 +53,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-
-
-
 <p align="center">
 
 
