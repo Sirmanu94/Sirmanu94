@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing websites and application.
 
 - 🎓 &nbsp; Studying as a FullStack Web Developer in Develhope Academy.
-- 🌱 &nbsp; Learning about coding and technology.
+- 🌱 &nbsp; Learning about front-end & back-end languages.
 
 
 <h3>🛠 Tech Stack</h3>
